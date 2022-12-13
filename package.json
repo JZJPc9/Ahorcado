@@ -1,0 +1,17 @@
+{
+  "name": "juego",
+  "version": "1.0.0",
+  "description": "Juego en Node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NICO",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
